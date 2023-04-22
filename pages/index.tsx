@@ -38,7 +38,7 @@ export default function Home() {
         className="w-full text-center mt-2 lg:mt-8
       "
       >
-        $SHALOM is the rest day of Jewish. It happens each week from sunset on
+        $SHABBAT is the rest day of Jewish. It happens each week from sunset on
         Friday to sunset on Saturday.
       </div>
       <div className="flex justify-center my-2">
